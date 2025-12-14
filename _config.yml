@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhanxiong Ma"
 title_separator          : "-"
 name                     : &name "Zhanxiong Ma"
-description              : &description "Ph.D in Civil Engineering"
+description              : &description "Associate Professor at Lanzhou University"
 url                      : https://mazhanxiong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mazhanxiong/mazhanxiong.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Zhanxiong Ma"
   avatar           : "VISA_photo.jpg"
-  bio              : "Ph.D in Civil Engineering"
-  location         : "Daejeon, Korea"
+  bio              : "Associate Professor at Lanzhou University"
+  location         : "Lanzhou, China"
   employer         :  
   googlescholar    : "https://scholar.google.com/citations?user=gNvmmt0AAAAJ&hl=zh-CN"
-  email            : "mazhanxiong@kaist.ac.kr"
+  email            : "mazx@lzu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zhanxiong-Ma"
   # uri              : https://www.scopus.com/authid/detail.uri?authorId=57191881606
   bitbucket        :

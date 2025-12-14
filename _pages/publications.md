@@ -5,7 +5,28 @@ author_profile: true
 ---
 ## Journal Papers
 
-1. **Zhanxiong Ma**, Kyuwon Han, Jaemook Choi, Jigu Lee, Ohjun Kwon, Hoon Sohn\*, Jingxiao Liu, Doyun Hwang, Jatin Aggarwal, Haeyoung Noh, Enjian Cai, Yi Zhang. Development and field deployment validation of a low-cost and high-precision displacement sensing system by fusing millimeter-wave radar and accelerometer, Under review, 2024.
+
+1. **Zhanxiong Ma\***, Boran Wang, Xin Jing, Wenlong Guo, Qiangqiang Zhang\*. [Computer Vision-Based Cross-Scale Structural Displacement Estimation Using Amplitude-Phase Fusion](), *Mechanical Systems and Signal Processing (IF: 8.9)* , 2026, 244: 113738.
+
+1. **Zhanxiong Ma\***, Lu Hai, Tongtong Zhang, Boran Wang, Xin Jing, Qiangqiang Zhang\*, Hoon Sohn. [Accurate structural displacement measurement via enhanced millimeter-wave radar interferometry using multi-chirp-based adaptive phase unwrapping](), *Measurement (IF: 5.6)*, 2026, 261: 120029.
+
+1. Lu Hai, Boran Wang, Tongtong Zhang, **Zhanxiong Ma\***. [Multi-modal sensing data fusion for bridge displacement estimation: a review](), *Intelligent Transportation Infrastructure*, 2025, 4: liaf023  (ESCI, Invited paper).
+
+1. Xin Jing, Yu Wang, Yixuan Huan, Kaiyu Guo, Jiaqi Dong, **Zhanxiong Ma**, Yang Xu, Qiangqiang Zhang\*. [Energy-derivative attention enhanced deep learning for multi-phase segmentation of mesoscale heterogeneous material using X-ray computed tomography images](), *Engineering Applications of Artificial Intelligence (IF: 8.0)*, 2025, 160: 111768.
+
+1. Xin Jing, **Zhanxiong Ma**, Tao Zhang, Yu Wang, Ruixian Huang, Yang Xu, Qiangqiang Zhang\*. [Geometrically consistent energy-derivative attention CNN for semantic segmentation of multicategory structural damage](), *Automation in Construction (IF: 11.5)*, 2025, 176: 106300.
+
+1. **Zhanxiong Ma\***, Xin Jing, Liming Qu, Wenlong Guo\*. [Deep-learning-based noncontact cable tension force estimation by combining vision camera and 6-axis IMU sensor measurements](), *Structures (IF: 3.9)*, 2025, 75: 108734.
+
+1. **Zhanxiong Ma**, Jigu Lee, Jaemook Choi, Hoon Sohn\*. [Two-dimensional horizontal displacement estimation for building structures by fusing acceleration and sparse point clouds](), *Mechanical System and Signal Processing (IF: 8.9)*, 2025, 225: 112318.
+
+1. **Zhanxiong Ma**, Jaemook Choi, Hoon Sohn\*. [Multi-point structural displacement estimation and modal identification by combining a single-point camera and multi-point accelerometers, *Measurement (IF: 5.6)*, 2025, 244: 116578. 
+
+1. Jiale Hou, Yi Zhang\*, Xinzheng Lu, Enjian Cai, Kai Wei, Min Luo, Jing Guo, **Zhanxiong Ma**, Hoon Sohn, Tong Guo. [An anti-occlusion vision-based method for structural motion](), *Mechanical System and Signal Processing (IF: 8.9)*, 2025, 224: 112003.
+
+1. **Zhanxiong Ma**, Jaemook Choi, Jigu Lee, Hoon Sohn\*. [Accelerometer-aided millimeter-wave radar interferometry for uninterrupted bridge displacement estimation considering intermittent radar target occlusion](), *Mechanical System and Signal Processing (IF: 8.9)*, 2025, 223: 111888.
+
+1. **Zhanxiong Ma**, Kyuwon Han, Jaemook Choi, Jigu Lee, Ohjun Kwon, Hoon Sohn\*, Jingxiao Liu, Doyun Hwang, Jatin Aggarwal, Haeyoung Noh, Enjian Cai, Yi Zhang. [Development and field deployment validation of a low-cost and high-precision displacement sensing system by fusing millimeter-wave radar and accelerometer](), *Engineering Structures (IF: 6.4)*, 2024, 321: 118926
   
 1. **Zhanxiong Ma**, Peipei Liu, Jaemook Choi, Hoon Sohn\*. [High-sampled structural displacement estimation through the FIR filter-based two-stage fusion of high-sampled acceleration and temporally aliased low-sampled displacement measurements](https://mazhanxiong.github.io/files/MSSP2024a.pdf), *Mechanical System and Signal Processing (IF: 8.934, JCR Q1, 4/137 in Engineering, Mechanical)*, 2024, 208: 111056, DOI: 10.1016/j.engstruct.2023.111056.
 
@@ -45,7 +66,7 @@ author_profile: true
 
 ## Conference Proceedings & Presentations
 
-1. **Zhanxiong Ma**, Kyuwon Han, Jaemook Choi, Jigu Lee, Ohjun Kwon, Hoon Sohn\*, Jingxiao Liu, Doyun Hwang, Jatin Aggarwal, Haeyoung Noh, Enjian Cai, Yi Zhang, [Field deployment validation of a low-cost and high-precision displacement sensor combining millimeter-wave radar and accelerometer](https://mazhanxiong.github.io/files/EMI2024.pdf), Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (EMI/PMC2024), Chicago, IL, USA, May 28-31, 2024.
+1. Jigu Lee, **Zhanxiong Ma**, Kiyoung Kim, Hoon Sohn\*. [High-speed train-induced bridge displacement estimation using accelerometer and FMCW millimeter-wave radar](), The 35th KKHTCNN Symposium on Civil Engineering, November 19-22, 2024, Shanghai, China, November 19-22, 2024.
 
 1. Jaemook Choi, **Zhanxiong Ma**, Kiyoung Kim,  Hoon Sohn\*, [Automated region of interest (ROI) selection for structural displacement estimation using computer vision](https://mazhanxiong.github.io/files/KSCE2023.pdf), KSCE (Korean Society of Civil Engineering) 2023 Convention, Yeosu, South Korea, October 18-20, 2023.
 

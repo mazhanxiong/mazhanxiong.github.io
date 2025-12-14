@@ -24,12 +24,12 @@ redirect_from:
 
 ## Work Experience
 
-* **2017/08 ~ 2024/02: Postdoc research**
+* **2017/08 ~ 2024/02: Postdoc researcher**
   * Applied Science Institute, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea
 
 * **2024/03 ~ now: Associate Professor**
   * College of Civil Engineering and Mechanics, Lanzhou University, Lanzhou, China
-  * 
+
 * **2025/10 ~ 2026/01: Visiting Professor**
   * Department of Civil and Environmental Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea
 

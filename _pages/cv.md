@@ -12,10 +12,10 @@ redirect_from:
 ## Education Background
 
 * **2010/09 ~ 2014/06: B.S. in Civil Engineering**
-  * School of Civil Engineering and Mechanics, Huazhong University of Science and Technology (HUST), Wuhan, China
+  * School of Civil Engineering and Mechanics, Huazhong University of Science and Technology, Wuhan, China
 
 * **2014/09 ~ 2017/06: M.S. in Architecture and Civil Engineering**
-  * School of Civil Engineering, Chongqing University (CQU), Chongqing, China
+  * School of Civil Engineering, Chongqing University, Chongqing, China
   * Thesis: [Wave-theory-based structural damage detection](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201801&filename=1017837569.nh&uniplatform=OVERSEA&v=2QfmS2D99v5aoOT_waGRxMftbo9-Brrs2klZIad8aGlwEGyo80ZkxWCr2Oiwpb6K) (In Chinese)
 
 * **2017/08 ~ 2022/08: Ph.D. in Civil Engineering**

@@ -6,8 +6,6 @@ author_profile: true
 
 ## Main Projects
 
-1. Bridge Health Monitoring, National Natural Science Foundation of China (NSFC) – Excellent Young Scientists Fund (Overseas), 1,000,000 RMB, 01/2026–12/2028, PI.
-
 2. Intelligent Bridge Network Management Based on Non-Dedicated Multimodal Sensing Technologies, China–Korea Young Scientists Exchange Program of Ministry of Science and Technology of China, 10.5 million KRW, 10/2025–01/2026, PI.
 
 3. Intelligent Multi-Response Sensing and Emergency Warning of Operational Abnormalities for Small- to Medium-Span Bridges under Complex Service Environments, Gansu Provincial Key R&D Program (International Cooperation), Grant No. 25YFWA001, 200,000 RMB, 02/2025–02/2027, PI.

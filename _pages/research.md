@@ -6,13 +6,13 @@ author_profile: true
 
 ## Main Projects
 
-2. Intelligent Bridge Network Management Based on Non-Dedicated Multimodal Sensing Technologies, China–Korea Young Scientists Exchange Program of Ministry of Science and Technology of China, 10.5 million KRW, 10/2025–01/2026, PI.
+1. Intelligent Bridge Network Management Based on Non-Dedicated Multimodal Sensing Technologies, China–Korea Young Scientists Exchange Program of Ministry of Science and Technology of China, 10.5 million KRW, 10/2025–01/2026, PI.
 
-3. Intelligent Multi-Response Sensing and Emergency Warning of Operational Abnormalities for Small- to Medium-Span Bridges under Complex Service Environments, Gansu Provincial Key R&D Program (International Cooperation), Grant No. 25YFWA001, 200,000 RMB, 02/2025–02/2027, PI.
+2. Intelligent Multi-Response Sensing and Emergency Warning of Operational Abnormalities for Small- to Medium-Span Bridges under Complex Service Environments, Gansu Provincial Key R&D Program (International Cooperation), Grant No. 25YFWA001, 200,000 RMB, 02/2025–02/2027, PI.
 
-4. All-Weather Vibration Monitoring and Condition Assessment of Small- to Medium-Span Bridges Based on Multi-Source Data Fusion, Open Research Fund of the State Key Laboratory of Mountain Bridge and Tunnel Engineering, Grant No. SKLBT-2313, 50,000 RMB, 09/2024–08/2026, PI.
+3. All-Weather Vibration Monitoring and Condition Assessment of Small- to Medium-Span Bridges Based on Multi-Source Data Fusion, Open Research Fund of the State Key Laboratory of Mountain Bridge and Tunnel Engineering, Grant No. SKLBT-2313, 50,000 RMB, 09/2024–08/2026, PI.
 
-5. Research Start-up Fund, Lanzhou University, Grant No. 561120211, 1,000,000 RMB, 03/2024–02/2029, PI.
+4. Research Start-up Fund, Lanzhou University, Grant No. 561120211, 1,000,000 RMB, 03/2024–02/2029, PI.
 
 
 ## Other Paticipated Projects
